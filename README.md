@@ -1,31 +1,31 @@
 # TrailAPI
-API with walking, camping, and hiking information
+API with walking, camping, and hiking information _
 
-Structure
+Structure _
 
-  Name <String>
-  Lat <Double>
-  Lon <Double>
-  Description <String>
-  DistanceKM <Double>
-  Pictures <List>
-  rating <Double>
-  review <List>
-  difculty <Int>
-  MinTimMin <Int>
-  GeoPath <?>
-  Website <>
-  Contact <>
-  Fee <>
-  Trails <List<Trails>>
-      Name <String>
-      Lat <Double>
-      Lon <Double>
-      Description <String>
-      DistanceKM <Double>
-      Pictures <List>
-      rating <Double>
-      review <List>
-      difculty <Int>
-      MinTimMin <Int>
-      GeoPath <?>
+  Name <String> 
+  Lat <Double>  <br />
+  Lon <Double>  <br />
+  Description <String>  <br />
+  DistanceKM <Double> <br />
+  Pictures <List> <br />
+  rating <Double> <br />
+  review <List> <br />
+  difculty <Int>  <br />
+  MinTimMin <Int> <br />
+  GeoPath <?> <br />
+  Website <>  <br />
+  Contact <>  <br />
+  Fee <>  <br />
+  Trails <List<Trails>> <br />
+      Name <String> <br />
+      Lat <Double>  <br />
+      Lon <Double>  <br />
+      Description <String>  <br />
+      DistanceKM <Double> <br />
+      Pictures <List> <br />
+      rating <Double> <br />
+      review <List> <br />
+      difculty <Int>  <br />
+      MinTimMin <Int> <br />
+      GeoPath <?> <br />
